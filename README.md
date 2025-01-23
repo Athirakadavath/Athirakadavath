@@ -11,5 +11,6 @@ I'm **Athira K**, a **third-year Computer Science and Engineering student** pass
 [LinkedIn Profile](https://www.linkedin.com/in/athira-k-90a2551b1/)  
 
 
-![Postman API Fundamentals Badge](https://api.badgr.io/public/assertions/EpCVfRcwSFKP4Tdoekm3MA?identity__email=athirasuresh235%40gmail.com)
+![Postman API Fundamentals Badge](https://github.com/Athirakadavath/Athirakadavath/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-10-31%20(1).png?raw=true)
+
 
