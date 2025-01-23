@@ -9,3 +9,6 @@ I'm **Athira K**, a **third-year Computer Science and Engineering student** pass
 
 ### 📫 How to Reach Me  
 [LinkedIn Profile](https://www.linkedin.com/in/athira-k-90a2551b1/)  
+
+
+ **Postman API Fundamentals Badge** [here](https://api.badgr.io/public/assertions/EpCVfRcwSFKP4Tdoekm3MA?identity__email=athirasuresh235%40gmail.com).
